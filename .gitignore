@@ -11,3 +11,8 @@ bin-release/
 # information for Eclipse / Flash Builder.
 
 .idea/
+npm-debug.log
+node_modules/
+build/
+.module-cache/
+bower_components/
